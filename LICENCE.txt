@@ -1,0 +1,122 @@
+CITIZEN DJ – GUIDE TO COPYRIGHT & ETHICS
+Library of Congress
+==================================================
+
+Citizen DJ is officially open to the public and all sounds on this website
+are completely free-to-use for your remixing needs.
+
+--------------------------------------------------
+A BRIEF GUIDE TO THE LAW AND ETHICS OF THE DIGITAL
+SAMPLING OF RECORDED SOUND MATERIALS
+--------------------------------------------------
+
+This guide is made for anyone who is interested in making music by
+sampling existing audio and video material from the Library of Congress
+and beyond. It is designed to be accessible and clear while not
+over-simplifying what is a complex set of copyright and ethical issues.
+
+This is not meant to be legal advice, but a guide that aggregates,
+references, organizes, and summarizes existing information from
+reputable sources such as the Library of Congress and the U.S.
+Copyright Office.
+
+This guide is built on top of the Library’s Understanding Copyright
+guide, with a special focus on audiovisual materials and music
+production. It is recommended that you read the Library’s guide as an
+introduction to copyright.
+
+--------------------------------------------------
+COPYRIGHT STATUS OF AUDIO ON CITIZEN DJ
+--------------------------------------------------
+
+All audio found on the Citizen DJ website is free to use from a copyright
+perspective. Each audio item should contain a statement explaining how
+and why it is free to use.
+
+This guide also discusses audio materials that may be found outside of
+Citizen DJ, including materials on the main Library of Congress website
+and other sources. Ethical considerations of digital sampling apply to
+all audio materials, including those found on Citizen DJ.
+
+--------------------------------------------------
+COPYRIGHT CHECKLIST
+--------------------------------------------------
+
+To use a sound recording without permission, you must consider the
+copyright status of:
+
+1. The sound recording itself
+2. The underlying composition or text (such as song composition or
+   lyrics)
+
+--------------------------------------------------
+SOUND RECORDING CRITERIA
+--------------------------------------------------
+
+A sound recording may be used freely if one or more of the following
+conditions are met:
+
+1. The recording was made by U.S. Government employees as part of their
+   official duties (U.S. Copyright Law, Section 105).
+2. The recording was made by U.S. Government employees and includes
+   signed releases from non-employee performers.
+3. The recording was dedicated to the public domain by the rights holder.
+4. The recording was released under a license permitting adaptation and
+   commercial use (e.g., Creative Commons Attribution).
+5. Explicit permission has been obtained from the copyright holder.
+6. As of January 1, 2022, the recording was published in the United
+   States 100 years ago or more (Music Modernization Act, Section 1401).
+
+--------------------------------------------------
+UNDERLYING COMPOSITION CRITERIA
+--------------------------------------------------
+
+An underlying composition may be used freely if one or more of the
+following conditions are met:
+
+1. The work was published 95 years ago or more.
+2. The work was unpublished and the author died 70 years ago or more.
+3. The work was unpublished, the author’s death date is unknown, and the
+   work was created 120 years ago or more.
+4. The work was created by U.S. Government employees as part of their
+   official duties (Section 105).
+5. The work was commissioned by the U.S. Government and the non-employee
+   author did not claim copyright.
+6. The work was dedicated to the public domain by the rights holder.
+7. The work was released under a license permitting adaptation and
+   commercial use (e.g., Creative Commons Attribution).
+8. Explicit permission has been obtained from the copyright holder.
+
+--------------------------------------------------
+ADDITIONAL NOTES
+--------------------------------------------------
+
+There are many exceptions and special cases beyond the criteria listed
+above. For more detailed information, users should consult official
+copyright term tables and authoritative legal resources.
+
+If the Library of Congress clearly states that an item is in the public
+domain in its “Rights & Access” section, that determination can be
+considered authoritative.
+
+Items labeled “no known copyright restrictions” are less explicit than
+“public domain,” but the risk of copyright issues is generally low.
+
+Fair use considerations may apply in some cases, but fair use does not
+guarantee protection.
+
+--------------------------------------------------
+ETHICAL CONSIDERATIONS
+--------------------------------------------------
+
+Even when audio materials are legally free to use, creators are
+encouraged to consider ethical factors such as attribution, cultural
+context, representation, and respect for original creators and
+communities.
+
+--------------------------------------------------
+SOURCE
+--------------------------------------------------
+
+Library of Congress – Citizen DJ
+https://citizen-dj.labs.loc.gov/guide/
